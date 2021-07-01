@@ -2,8 +2,7 @@
 
 Script que gera aleatoriamente jogos da mega sena.
 
-Informe os parâmetros nos métodos 
-setQtdDezenas() e setTotalJogos()
+Ao criar uma nova Mega informe a quantidade de dezenas e qtd de jogos nos atributos.
 
 Após isso utilize gerarCartela(); para gerar um combo de jogos.
 
