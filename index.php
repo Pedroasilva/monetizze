@@ -4,8 +4,6 @@
 
 	$mega = new megaSena(6,10);
 
-	$mega->setQtdDezenas(6);
-	$mega->setTotalJogos(7);
 	$mega->gerarCartela();
 	$mega->sortearNumeros();
 	$jogos = $mega->getJogos();
